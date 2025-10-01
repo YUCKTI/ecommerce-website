@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/Hero/Hero";
-import Products from "./components/products/Products"; // ✅ Capitalized filename
+import Products from "./components/Products/Products"; // ✅ Capitalized filename
 import AOS from "aos";
 import "aos/dist/aos.css";
 import TopProducts from "./components/TopProducts/TopProducts";
